@@ -1,5 +1,5 @@
 def par():
-    print('Soy par')
+    print('Soy un número par')
 
 
 if __name__ == '__main__':
