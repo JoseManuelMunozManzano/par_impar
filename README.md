@@ -1,2 +1,2 @@
-# par
+# par - impar
 Educational Git project.
